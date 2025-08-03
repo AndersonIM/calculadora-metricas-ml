@@ -10,7 +10,7 @@ O notebook permite que o usuário insira os valores de uma matriz de confusão (
 
 Você pode executar este projeto diretamente no seu navegador através do Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DO_SEU_NOTEBOOK_NO_GITHUB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)])
 
 ## Métricas Implementadas
 * Acurácia
